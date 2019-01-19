@@ -1,0 +1,5 @@
+Light_augmentation.ipynb is a file with cnn and its results on light augmentation(8 methods creates 1 picture)
+Strong_augmentation.ipynb is a file with cnn and its results on good aumentation(8 methods creates 8 pictures)
+Untitled1.ipynb is a file with cnn and its results without data augmentation
+Light_augmentation_procesing.ipynb methods which were used for augmentate for light_augmentation file
+Strong_augmentation_procesing.ipynb methods which were used for augmentate for Strong_augmentation file
